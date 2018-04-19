@@ -42,10 +42,10 @@
         <entry file="file://$PROJECT_DIR$/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
-                <marker date="1524118864000" expanded="true" signature="115:594" ph="..." />
-                <marker date="1524118864000" expanded="true" signature="276:361" ph="..." />
+                <marker date="1524118946000" expanded="true" signature="115:594" ph="..." />
+                <marker date="1524118946000" expanded="true" signature="276:361" ph="..." />
               </folding>
             </state>
           </provider>
@@ -202,12 +202,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524114065383</updated>
-      <workItem from="1524114067977" duration="1451000" />
+      <workItem from="1524114067977" duration="1552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1451000" />
+    <option name="totallyTimeSpent" value="1552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="433" y="23" width="1007" height="877" extended-state="0" />
@@ -310,10 +310,10 @@
     <entry file="file://$PROJECT_DIR$/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
-            <marker date="1524118864000" expanded="true" signature="115:594" ph="..." />
-            <marker date="1524118864000" expanded="true" signature="276:361" ph="..." />
+            <marker date="1524118946000" expanded="true" signature="115:594" ph="..." />
+            <marker date="1524118946000" expanded="true" signature="276:361" ph="..." />
           </folding>
         </state>
       </provider>
