@@ -53,6 +53,15 @@ export class GroceryListService {
         return headers;
     }
 
+    delete(id: string) {
+        return this.http.delete(
+            this.baseUrl + "/" + id,
+            { headers: this.getCommonHeaders() }
+        )
+            .map(res => res.json())
+            .catch(this.handleErrors);
+    }
+
     handleErrors(error: Response) {
         console.log(JSON.stringify(error.json()));
         return Observable.throw(error);
