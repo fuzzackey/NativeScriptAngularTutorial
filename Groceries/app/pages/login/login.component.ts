@@ -33,7 +33,10 @@ constructor(private , router: Router, private , userService ,: UserService, priv
     userService: UserService
 }
 {
-    submit()
+    if (!this.user.isValidEmail()) {
+        alert("Enter a valid email address.");
+        return;
+    }submit()
     {
         if (this.isLoggingIn) {
             this.login();
