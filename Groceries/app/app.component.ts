@@ -5,7 +5,7 @@ import {Component} from "@angular/core";
     template: `
         <StackLayout>
             <Image src="res://logo_login" stretch="none" horizontalAlignment="center"></Image>
-            <TextField hint="Email Address" keyboardType="email"
+            <TextField hint="Email Address" keyboardType="email" [text]="email"
                        autocorrect="false" autocapitalizationType="none"></TextField>
             <TextField hint="Password" secure="true"></TextField>
 
