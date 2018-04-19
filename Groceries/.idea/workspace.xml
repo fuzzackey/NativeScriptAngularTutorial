@@ -29,8 +29,8 @@
       <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/pages/list/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="195">
+              <caret line="13" column="176" lean-forward="false" selection-start-line="13" selection-start-column="176" selection-end-line="13" selection-end-column="176" />
               <folding />
             </state>
           </provider>
@@ -46,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.component.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="list.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/pages/list/list.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="53" column="5" lean-forward="false" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            <state relative-caret-position="328">
+              <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
               </folding>
@@ -68,10 +68,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grocery-list.service.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="grocery-list.service.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/shared/grocery/grocery-list.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="-78">
               <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
@@ -138,9 +138,9 @@
         <option value="$PROJECT_DIR$/app/pages/login/login.component.ts" />
         <option value="$PROJECT_DIR$/app/app.css" />
         <option value="$PROJECT_DIR$/app/shared/grocery/grocery.ts" />
+        <option value="$PROJECT_DIR$/app/shared/grocery/grocery-list.service.ts" />
         <option value="$PROJECT_DIR$/app/pages/list/list.html" />
         <option value="$PROJECT_DIR$/app/pages/list/list.component.ts" />
-        <option value="$PROJECT_DIR$/app/shared/grocery/grocery-list.service.ts" />
       </list>
     </option>
   </component>
@@ -281,12 +281,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524114065383</updated>
-      <workItem from="1524114067977" duration="10039000" />
+      <workItem from="1524114067977" duration="10195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10039000" />
+    <option name="totallyTimeSpent" value="10195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="433" y="23" width="1007" height="877" extended-state="0" />
@@ -456,30 +456,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/shared/grocery/grocery-list.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/pages/list/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="195">
+          <caret line="13" column="176" lean-forward="false" selection-start-line="13" selection-start-column="176" selection-end-line="13" selection-end-column="176" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/pages/list/list.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="53" column="5" lean-forward="false" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        <state relative-caret-position="328">
+          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/shared/grocery/grocery-list.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
