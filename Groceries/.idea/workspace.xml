@@ -41,12 +41,31 @@
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="330">
+              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding>
-                <marker date="1524119252000" expanded="true" signature="115:690" ph="..." />
-                <marker date="1524119252000" expanded="true" signature="296:381" ph="..." />
+                <element signature="e#0#42#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/pages/login/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/shared/user/user.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -90,6 +109,8 @@
         <option value="$PROJECT_DIR$/app/platform.ios.css" />
         <option value="$PROJECT_DIR$/app/pages/login/login-common.css" />
         <option value="$PROJECT_DIR$/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/app/shared/user/user.ts" />
+        <option value="$PROJECT_DIR$/app/pages/login/login.html" />
         <option value="$PROJECT_DIR$/app/app.component.ts" />
       </list>
     </option>
@@ -176,7 +197,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.ns.project" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="lo-&#9;FILE&#9;file:///Users/terang/WebstormProjects/NativeScriptAngularTutorial/Groceries/app/pages/login/login-common.css&#10;p.i&#9;FILE&#9;file:///Users/terang/WebstormProjects/NativeScriptAngularTutorial/Groceries/app/platform.ios.css&#10;app.cs&#9;FILE&#9;file:///Users/terang/WebstormProjects/NativeScriptAngularTutorial/Groceries/app/app.css&#10;app&#9;FILE&#9;file:///Users/terang/WebstormProjects/NativeScriptAngularTutorial/Groceries/app/app.module.ts&#10;mai.t&#9;FILE&#9;file:///Users/terang/WebstormProjects/NativeScriptAngularTutorial/Groceries/app/main.ts" />
+    <property name="SearchEverywhereHistoryKey" value="lo.h&#9;FILE&#9;file:///Users/terang/WebstormProjects/NativeScriptAngularTutorial/Groceries/app/pages/login/login.html&#10;us.t&#9;FILE&#9;file:///Users/terang/WebstormProjects/NativeScriptAngularTutorial/Groceries/app/shared/user/user.ts&#10;lo-&#9;FILE&#9;file:///Users/terang/WebstormProjects/NativeScriptAngularTutorial/Groceries/app/pages/login/login-common.css&#10;p.i&#9;FILE&#9;file:///Users/terang/WebstormProjects/NativeScriptAngularTutorial/Groceries/app/platform.ios.css&#10;app.cs&#9;FILE&#9;file:///Users/terang/WebstormProjects/NativeScriptAngularTutorial/Groceries/app/app.css&#10;app&#9;FILE&#9;file:///Users/terang/WebstormProjects/NativeScriptAngularTutorial/Groceries/app/app.module.ts&#10;mai.t&#9;FILE&#9;file:///Users/terang/WebstormProjects/NativeScriptAngularTutorial/Groceries/app/main.ts" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,12 +224,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524114065383</updated>
-      <workItem from="1524114067977" duration="1837000" />
+      <workItem from="1524114067977" duration="2098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1837000" />
+    <option name="totallyTimeSpent" value="2098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="433" y="23" width="1007" height="877" extended-state="0" />
@@ -308,13 +329,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/shared/user/user.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pages/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
-            <marker date="1524119252000" expanded="true" signature="115:690" ph="..." />
-            <marker date="1524119252000" expanded="true" signature="296:381" ph="..." />
+            <element signature="e#0#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
