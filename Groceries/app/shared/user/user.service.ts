@@ -10,6 +10,21 @@ import { Config } from "../config";
 
 @Injectable()
 export class UserService {
+    login(user: User) {
+        return this.http.post(
+            Config.apiUrl + "user/" + Config.appKey + "/login",
+            JSON.stringify({
+                username: user.email,
+                password: user.password
+            }),
+            { headers: this.getCommonHeaders() }
+        )
+            .map(response => response.json())
+            .do(data => {
+                Config.token = data._kmd.authtoken
+            })
+            .catch(this.handleErrors);
+    }
     constructor(private http: Http) {}
 
     register(user: User) {

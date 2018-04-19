@@ -1,7 +1,9 @@
 import { Component } from "@angular/core";
 
 @Component({
-    selector: "main",
-    template: "<page-router-outlet></page-router-outlet>"
+    selector: "list",
+    moduleId: module.id,
+    templateUrl: "./list.html",
+    styleUrls: ["./list-common.css", "./list.css"]
 })
-export class AppComponent {}
+export class ListComponent {}
